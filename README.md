@@ -1,7 +1,7 @@
 # CodeHS-CSA-Solutions
 This repository contains my solutions for the CodeHS AP Computer Science A (CSA) course. Before using these solutions, it is both recommended and required to make a sincere effort to solve the problems on your own, in accordance with the CodeHS Terms of Use, which you can review here: [CodeHS Terms of Use](https://codehs.com/terms)
 
-## Introduction
+## Welcome :wave:
 Welcome to my repository! If you are a student of the CodeHS AP CSA course, you may find this collection of solutions helpful in your learning journey. However, it's crucial to remember that the process of solving programming challenges and exercises is an essential part of your learning experience. These solutions are provided as a reference, not a shortcut.
 
 ## Why You Should Attempt Problems First :warning:
