@@ -17,5 +17,6 @@ Welcome to my repository! If you are a student of the CodeHS AP CSA course, you 
 **Learn from Mistakes:** If you made mistakes in your attempt, analyze them and understand why they occurred. This is a valuable part of the learning process.
 <br/>
 <br/>
+<br/>
 
 Happy coding, and best of luck with your AP CSA journey!
