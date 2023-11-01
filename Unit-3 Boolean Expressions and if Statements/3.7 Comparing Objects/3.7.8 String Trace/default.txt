@@ -1,0 +1,3 @@
+str2 == str3 will result in false. This is because, even though they have the same string values inside them, since they refer to different memory locations and the statement above compares there memory locations it will be false.
+
+(str1 == str2) && (str2 == str3) will result in false. The first comparison str1 == str2 is actually true, bu the second comparison is false, and since we have a && comparison operator both comparisons have to be true in order for && to be true.

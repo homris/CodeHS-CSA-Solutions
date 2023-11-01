@@ -1,0 +1,15 @@
+What was wrong with the program?
+
+    The bothEven function was returning false even when both the numbers were actually even, thus printing to the console that one number was odd and the other was even.
+
+
+
+
+What expression was the programmer trying to use that gave the error? Relate your answer to De Morgan's Laws.
+
+    !(n1 % 2 == 0) && !(n2 % 2 == 0), this was the expression that caused the mistake in the code. In the bothOdd function the expression was !(n1 % 2 == 0 || n2 % 2 == 0), and according to De Morgan's Laws this is actually the equivalent expression as the one in the bothEven method. So, the expression in the bothEven method was actually returning the if both the numbers are actually odd.
+
+
+How did you resolve the error?
+
+    I resolved it by removing the ! operators from both sides of the AND logical operator.
