@@ -19,3 +19,7 @@ Welcome to my repository! If you are a student of the CodeHS AP CSA course, you 
 <br/>
 
 Happy coding, and best of luck with your AP CSA journey!
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homris&show_icons=true&locale=en" alt="homris" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homris&" alt="homris" /></p>
