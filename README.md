@@ -14,7 +14,7 @@ Welcome to my repository! If you are a student of the CodeHS AP CSA course, you 
 ## How to Use This Repository :question:
 **Practice and Verify:** Use these solutions as a reference to check your work after you've genuinely attempted the problems. Compare your solution with mine to see where you can improve.
 
-**Learn from Mistakes:** If you made mistakes in your attempt, analyze them and understand why they occurred. This is a valuable part of the learning process.
+**Learn from Mistakes:** If you made mistakes in your attempt, analyse them and understand why they occurred. This is a valuable part of the learning process.
 <br/>
 <br/>
 
