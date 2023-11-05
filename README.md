@@ -19,5 +19,3 @@ Welcome to my repository! If you are a student of the CodeHS AP CSA course, you 
 <br/>
 
 Happy coding, and best of luck with your AP CSA journey!
-
-![homris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=homris&theme=react&hide_border=false)
