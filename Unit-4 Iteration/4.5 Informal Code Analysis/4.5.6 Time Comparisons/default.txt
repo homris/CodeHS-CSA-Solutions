@@ -1,0 +1,7 @@
+1. Most of the run times for both for and while loop was about 4 ms. However, sometimes the for loop code varied more and was higher.
+
+
+2. They were pretty much the same, but the for loop was sometimes a bit higher. I just did many runs and checked to see if all the runs were consistenly 4 ms and they were not. 
+
+
+3. I would assume since the code is being run on another server everytime there sometimes delays in the run times.

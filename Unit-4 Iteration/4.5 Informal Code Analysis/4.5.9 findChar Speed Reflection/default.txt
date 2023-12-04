@@ -1,0 +1,5 @@
+1. My method (findChar2) was much more efficient. I know this because from the run times we compared in the previous exercise. My method was faster than the other.
+
+2. I think my method is more efficient because it has a smaller execution count.
+
+3. It is important because it reduces the time needed for a program to run, and it decreases the cost.
