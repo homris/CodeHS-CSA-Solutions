@@ -1,0 +1,13 @@
+1. What are the pros of self-driving cars?
+
+Self-driving cars offer numerous advantages, including enhanced safety through reduced human error, increased efficiency in traffic flow, and improved accessibility for individuals with mobility challenges. Additionally, they have the potential to decrease traffic congestion, lower accident rates, and optimize fuel consumption, contributing to a more sustainable and streamlined transportation system.
+
+
+2. What are some possible ethical problems with self-driving cars?
+
+One significant ethical concern revolves around decision-making in unavoidable, life-threatening situations. Programming algorithms to prioritize one life over another poses moral dilemmas, as does the allocation of responsibility in case of accidents. Issues of privacy and data security also arise, as self-driving cars collect vast amounts of personal information, raising questions about how that data is handled and protected.
+
+
+3. What is a way that we can try to prevent ethical concerns with self-driving cars?
+
+To address ethical concerns with self-driving cars, it is crucial to establish clear and transparent guidelines for decision-making algorithms. Ethical frameworks should prioritize human safety and well-being, and regulatory bodies must ensure compliance with these standards. Engaging stakeholders, including ethicists, policymakers, and the public, in the development and review of autonomous vehicle technologies can help create a collective understanding and consensus on ethical principles in this rapidly evolving field.
