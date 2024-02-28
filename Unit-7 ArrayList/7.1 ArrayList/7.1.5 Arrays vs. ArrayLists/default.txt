@@ -1,0 +1,14 @@
+1. What are the primary differences between Arrays and ArrayLists?
+ArrayLists can change in size.
+
+
+2. Why might you use an Array instead of an ArrayList?
+If we have a set number of elements we want and do not want to change the size of the array.
+
+
+3. Why might you use an ArrayList instead of an Array?
+If we want an array that is mutable.
+
+
+4. How are Arrays and ArrayLists similar?
+They store a elements of the same data type for every array.
